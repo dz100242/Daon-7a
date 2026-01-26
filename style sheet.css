@@ -2,8 +2,12 @@ body {
     background-color:#000000;
 
 h1{ color: #ff9900
+
+    font-family: 'Impact', serif;
   }
 h2{ color:#de8500
-  }
+
+    font-family: 'Impact', serif;  }
 p{ color:#ffbf66
- }
+ 
+    font-family: 'Impact', serif; }
